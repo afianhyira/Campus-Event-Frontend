@@ -69,9 +69,9 @@ Below are screenshots of Postman API tests on the endpoints used in the project.
 
 
 - **Register for Event Endpoint:**
-  ![Register ](src/public/screenshots/register.png)
+  ![Register ](public/screenshots/register.png)
 
 - ** Login Endpoint:**
-  ![login](src/public/screenshots/login.png)
+  ![login](public/screenshots/login.png)
 
 
