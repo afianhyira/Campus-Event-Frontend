@@ -4,7 +4,7 @@
 The Campus Event Management System is a web application designed to help users discover, register, and manage campus events. The application allows users to view event details, register for events, and for admins to create and manage events.
 
 ## Deployment Link
-You can access the deployed project at the following link: [Campus Event Management System](https://campusevents-d2mm3f65g-nhyiras-projects-799fa3d8.vercel.app/)
+You can access the deployed project at the following link: [Campus Event Management System](https://campusevents-five.vercel.app/)
 
 ## Login Details
 If the project includes authentication, you can use the following test login credentials:
