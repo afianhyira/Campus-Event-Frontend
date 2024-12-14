@@ -8,8 +8,8 @@ You can access the deployed project at the following link: [Campus Event Managem
 
 ## Login Details
 If the project includes authentication, you can use the following test login credentials:
-- **Username:** testuser@example.com
-- **Password:** password123
+- **Username:** example@gmail.com
+- **Password:** 12345678
 
 ## Feature Checklist
 - [x] User Registration
