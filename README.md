@@ -66,18 +66,12 @@ To run the project locally, follow these steps:
 ## API Documentation
 Below are screenshots of Postman API tests on the endpoints used in the project. Please upload the screenshots to the `src/public` directory in the frontend and update the paths accordingly.
 
-- **Create Event Endpoint:**
-  ![Create Event](src/public/screenshots/create_event.png)
 
-- **Get Events Endpoint:**
-  ![Get Events](src/public/screenshots/get_events.png)
 
 - **Register for Event Endpoint:**
-  ![Register for Event](src/public/screenshots/register_event.png)
+  ![Register ](src/public/screenshots/register.png)
 
-- **Check Registration Status Endpoint:**
-  ![Check Registration](src/public/screenshots/check_registration.png)
+- ** Login Endpoint:**
+  ![login](src/public/screenshots/login.png)
 
-- **Delete Event Endpoint:**
-  ![Delete Event](src/public/screenshots/delete_event.png)
 
