@@ -81,4 +81,3 @@ Below are screenshots of Postman API tests on the endpoints used in the project.
 - **Delete Event Endpoint:**
   ![Delete Event](src/public/screenshots/delete_event.png)
 
-Feel free to reach out if you have any questions or need further assistance!
