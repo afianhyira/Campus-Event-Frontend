@@ -1,8 +1,7 @@
 import axios from "axios";
-
+console.log(import.meta.env);
 const api = axios.create({
-  // baseURL: "http://localhost:5001/api",
-  baseURL: "https://campus-event-backbend.onrender.com/",
+  baseURL: import.meta.env.VITE_BACKEND_URL,
   headers: {
     "Content-Type": "application/json",
   },
